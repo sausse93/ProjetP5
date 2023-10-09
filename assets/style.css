@@ -100,8 +100,8 @@ body {
 .gallery .nav {
 	justify-content: center;
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
+.nav-pills .nav-link.active-tag, .nav-pills .show > .nav-link {
+	color: black;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
@@ -356,3 +356,7 @@ input[type="submit"] {
 
 /****** Modification test *****/
 
+/*.nav-link.active-tag {
+	background-color: #BEB45A;
+	color:black
+}*/
